@@ -1,0 +1,2 @@
+MB_KEY="MWY2MzE2ZWE5YWY5NmZmYmQ2NDkwNzgzNzE1MjUwNTU.gfnAyhSlWlobwE61Xm1-8lA5mv5UMMDsF3cS1ttXI2zapqoCnnvEpKJOJi8vbD2CyVwCbU9oTJNd_xalsb3cGQ"
+docker run -p 8080:8080 -e "MB_KEY=$MB_KEY" machinebox/facebox
